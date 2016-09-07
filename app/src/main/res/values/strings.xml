@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+
+    <string name="app_name">NHI Picture Book</string>
+    <string name="description_logo">Demo</string>
+
+    <string name="description_about">About</string>
+    <string name="description_home">Home</string>
+    <string name="description_search">Search</string>
+    <string name="description_feature1">Feature 1</string>
+    <string name="description_feature2">Feature 2</string>
+    <string name="description_feature3">Feature 3</string>
+    <string name="description_feature4">Feature 4</string>
+
+
+    <string name="title_about">About</string>
+    <string name="title_home">NHI Picture Book</string>
+    <string name="title_feature1">媽媽</string>
+    <string name="title_feature2">爸爸</string>
+    <string name="title_feature3">奶奶</string>
+    <string name="title_feature4">爺爺</string>
+
+
+    <string name="default_intro">This is the default content view for an activity. Be sure to change your activity\'s onCreate method. Use setContentView on a custom layout.</string>
+
+
+
+    <string name="about_intro">About page for storybook/Author info/websites.</string>
+
+    <string-array name="options">
+        <item>Play</item>
+        <item>Record</item>
+    </string-array>
+
+
+
+
+
+    <string name="button_play">Start</string>
+    <string name="button_stop">Stop</string>
+
+    <string name="button_name">Record</string>
+    <string name="text_name">第 </string>
+    <string name="text_ending">頁</string>
+    <string name="title_record">語音備忘</string>
+
+</resources>

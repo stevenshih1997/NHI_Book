@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/drawable/home_button4.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/drawable/home_button4.xml"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/drawable/play_button.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/drawable/play_button.xml"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/drawable/title_home.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/drawable/title_home.xml"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/drawable/ic_action_stop.png",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/drawable/ic_action_stop.png"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/drawable/record_button.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/drawable/record_button.xml"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/drawable/home_button3.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/drawable/home_button3.xml"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/drawable/actualrecord_button.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/drawable/actualrecord_button.xml"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/drawable/home_button1.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/drawable/home_button1.xml"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/drawable/volume_bar.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/drawable/volume_bar.xml"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/drawable/title_button.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/drawable/title_button.xml"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/drawable/home_button2.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/drawable/home_button2.xml"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/drawable/title_about.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/drawable/title_about.xml"
+    }
+]

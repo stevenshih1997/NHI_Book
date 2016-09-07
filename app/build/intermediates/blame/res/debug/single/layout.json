@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/layout/activity_f4recordlist.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/layout/activity_f4recordlist.xml"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/layout/activity_f4.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/layout/activity_f4.xml"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/layout/activity_f3.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/layout/activity_f3.xml"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/layout/story1_playfragment.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/layout/story1_playfragment.xml"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/layout/activity_f1recordlist.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/layout/activity_f1recordlist.xml"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/layout/activity_f2.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/layout/activity_f2.xml"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/layout/aboutpage.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/layout/aboutpage.xml"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/layout/activity_f3recordlist.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/layout/activity_f3recordlist.xml"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/layout/activity_recordpopup.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/layout/activity_recordpopup.xml"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/layout/story_playback.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/layout/story_playback.xml"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/layout/activity_f2recordlist.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/layout/activity_f2recordlist.xml"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/layout/activity_f1.xml",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/layout/activity_f1.xml"
+    }
+]

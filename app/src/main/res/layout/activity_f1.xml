@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    >
+    <LinearLayout style="@style/TitleBar">
+        <ImageButton style="@style/TitleBarAction"
+            android:contentDescription="@string/description_home"
+            android:src="@drawable/title_home"
+            android:onClick="onClickHome" />
+
+        <ImageView style="@style/TitleBarSeparator" />
+        <TextView style="NHI Picture Book"
+            android:layout_height="match_parent"
+            android:textSize="24sp"
+            android:layout_weight="2"
+            android:text="@string/title_home"
+            android:paddingTop="5dp"
+            android:paddingLeft="60dp"
+            android:textColor="@color/white"
+            android:layout_width="match_parent" />
+        <ImageButton style="@style/TitleBarAction"
+            android:contentDescription="@string/description_about"
+            android:src="@drawable/title_about"
+            android:onClick="onClickAbout" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/story1_row"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:background="@color/white"
+        >
+        <ImageView android:id="@+id/storypic"
+            android:layout_width="100dp"
+            android:layout_height="60dp"
+            android:layout_alignParentLeft="true"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/story1hd" />
+
+        <TextView android:id="@+id/tv_string_data"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="歡迎來到伊修倫斯"
+            android:layout_toRightOf="@+id/storypic"
+            android:paddingTop="15dp"
+            android:paddingLeft="20dp"
+            android:textSize="22sp"
+            android:paddingBottom="5dp" />
+
+
+        <ImageButton android:id="@+id/btn_playback"
+            android:layout_width="40dp"
+            android:layout_height="50dp"
+            android:scaleType="fitCenter"
+            android:layout_toLeftOf="@+id/btn_record"
+            android:onClick="onClickMedia"
+            android:src="@drawable/play_button"
+            android:background="@color/white"
+            android:paddingBottom="5dp"
+            android:paddingRight="5dp"/>
+
+        <ImageButton android:id="@+id/btn_record"
+            android:layout_width="25dp"
+            android:layout_height="50dp"
+            android:scaleType="fitCenter"
+            android:layout_alignParentRight="true"
+            android:onClick="onClickMedia"
+            android:src="@drawable/record_button"
+            android:background="@color/white"
+            android:paddingBottom="5dp"
+            android:paddingRight="5dp"/>
+
+        </RelativeLayout>
+    <ImageView style="@style/RowSeparator" />
+    <RelativeLayout
+        android:id="@+id/story2_row"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <ImageView android:id="@+id/storypic2"
+            android:layout_width="100dp"
+            android:layout_height="60dp"
+            android:layout_alignParentLeft="true"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/story2hd" />
+
+        <TextView android:id="@+id/tv_string_data2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="療癒女神生氣了"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:layout_toRightOf="@+id/storypic2"
+            android:textSize="22sp"
+            android:paddingBottom="5dp" />
+
+
+        <ImageButton android:id="@+id/btn_playback2"
+            android:layout_width="40dp"
+            android:layout_height="50dp"
+            android:scaleType="fitCenter"
+            android:layout_toLeftOf="@+id/btn_record2"
+            android:onClick="onClickMedia"
+            android:src="@drawable/play_button"
+            android:background="@color/white"
+            android:paddingBottom="5dp"
+            android:paddingRight="5dp"/>
+
+        <ImageButton android:id="@+id/btn_record2"
+            android:layout_width="25dp"
+            android:layout_height="50dp"
+            android:scaleType="fitCenter"
+            android:layout_alignParentRight="true"
+            android:onClick="onClickMedia"
+            android:src="@drawable/record_button"
+            android:background="@color/white"
+            android:paddingBottom="5dp"
+            android:paddingRight="5dp"/>
+
+    </RelativeLayout>
+    <ImageView style="@style/RowSeparator" />
+    <RelativeLayout
+        android:id="@+id/story3_row"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        >
+        <ImageView android:id="@+id/storypic3"
+            android:layout_width="100dp"
+            android:layout_height="60dp"
+            android:layout_alignParentLeft="true"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/story3hd" />
+
+        <TextView android:id="@+id/tv_string_data3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="我們都愛的海爾斯塔"
+            android:paddingLeft="20dp"
+            android:paddingTop="15dp"
+            android:layout_toRightOf="@+id/storypic3"
+            android:textSize="22sp"
+            android:paddingBottom="5dp" />
+
+
+        <ImageButton android:id="@+id/btn_playback3"
+            android:layout_width="40dp"
+            android:layout_height="50dp"
+            android:scaleType="fitCenter"
+            android:layout_toLeftOf="@+id/btn_record3"
+            android:onClick="onClickMedia"
+            android:src="@drawable/play_button"
+            android:background="@color/white"
+            android:paddingBottom="5dp"
+            android:paddingRight="5dp"/>
+
+        <ImageButton android:id="@+id/btn_record3"
+            android:layout_width="25dp"
+            android:layout_height="50dp"
+            android:scaleType="fitCenter"
+            android:layout_alignParentRight="true"
+            android:onClick="onClickMedia"
+            android:src="@drawable/record_button"
+            android:background="@color/white"
+            android:paddingBottom="5dp"
+            android:paddingRight="5dp"/>
+        </RelativeLayout>
+
+
+</LinearLayout>

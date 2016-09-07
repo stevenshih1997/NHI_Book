@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_action_name.png",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/drawable-xxhdpi/ic_action_name.png"
+    },
+    {
+        "merged": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/record_sound_icon.png",
+        "source": "/Users/stevenshih/AndroidStudioProjects/NHI_Book/app/src/main/res/drawable-xxhdpi/record_sound_icon.png"
+    }
+]
